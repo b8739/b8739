@@ -29,6 +29,7 @@
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/flask-%23000000.svg?&style=for-the-badge&logo=flask&logoColor=white" />
 </div>
+
 ### 📫 Contacts:
 <p>
 <a href="mailto:a87380@gmail.com">
