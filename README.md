@@ -12,22 +12,23 @@
 ### 🛠  Skills
 
 <div>
-<img src="https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo&logo=vue.js&logoColor=white">
-<img src="https://img.shields.io/badge/vuex-1c2e4a?style=flat-square&logo&logo=vue.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/Vuex-1c2e4a?style=flat-square&logo=vue.js&logoColor=white"> 
 </div>
 <div>
 <div>
-<img src="https://img.shields.io/badge/html-E34F26.svg?&style=flat-square&logo&logo=html5&logoColor=black" />
-<img src="https://img.shields.io/badge/css-1572B6.svg?&style=flat-square&logo&logo=css3&logoColor=black" />
-<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML-E34F26.svg?&style=flat-square&logo=html5&logoColor=black" />
+<img src="https://img.shields.io/badge/CSS-1572B6.svg?&style=flat-square&logo=css3&logoColor=black" />
+<img src="https://img.shields.io/badge/Javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black" />
 </div>
 <div>
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=flat-square&logo&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=flat-square&logo&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Mongodb-%2347A248.svg?&style=flat-square&logo=mongodb&logoColor=white" />
 </div>
 <div>
-<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/flask-%23000000.svg?&style=flat-square&logo&logo=flask&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-%23000000.svg?&style=flat-square&logo=flask&logoColor=white" />
 </div>
 
 ### 📫 Contacts:
