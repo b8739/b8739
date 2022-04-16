@@ -1,20 +1,23 @@
-### Hi, I'm 재호
+### Hi, I'm 재호 
 
 반드시 해결하는 개발자입니다.
 
-### 🔭  Blog
+<img src="https://velog.velcdn.com/images/a87380/post/67d62384-20ce-4480-842c-233028d23f2b/image.gif" width='100px' alt="">
+
+### 🔭 Blog
 
 <a href="https://b8739.github.io/">
   <img src="https://img.shields.io/badge/자기개발자 blog-20232A?style=flat-square&logo=GitBook&logoColor=F05032" />
 <a/>
-  
 
-### 🛠  Skills
+
+### 🛠 Skills
 
 <div>
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/Vuex-1c2e4a?style=flat-square&logo=vue.js&logoColor=white"> 
 </div>
+  
 <div>
 <div>
 <img src="https://img.shields.io/badge/HTML-E34F26.svg?&style=flat-square&logo=html5&logoColor=black" />
@@ -32,6 +35,7 @@
 </div>
 
 ### 📫 Contacts:
+
 <p>
 <a href="mailto:a87380@gmail.com">
   <img src="https://img.shields.io/badge/a87380@gmail.com-20232A?style=flat-square&logo=Gmail&logoColor=EA4335" />
@@ -43,4 +47,4 @@
   <img src="https://img.shields.io/badge/jaaeehho-20232A?style=flat-square&logo=Instagram&logoColor=E4405F" />
 <a/>
 
-![](https://velog.velcdn.com/images/a87380/post/67d62384-20ce-4480-842c-233028d23f2b/image.gif)
+
