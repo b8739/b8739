@@ -1,6 +1,6 @@
 ### Hi, I'm 재호 
 
-반드시 해결하는 개발자입니다.
+쉴 땐 늘어지고, 할 땐 물고 늘어지는 개발자입니다.
 
 <img src="https://velog.velcdn.com/images/a87380/post/67d62384-20ce-4480-842c-233028d23f2b/image.gif" width='100px' alt="">
 
