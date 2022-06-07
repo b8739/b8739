@@ -2,8 +2,6 @@
 
 쉴 땐 늘어지고, 할 땐 물고 늘어지는 개발자입니다.
 
-<img src="https://velog.velcdn.com/images/a87380/post/67d62384-20ce-4480-842c-233028d23f2b/image.gif" style="height:100px; width:100px;" alt="">
-
 ### 🔭 Blog
 
 <a href="https://b8739.github.io/">
@@ -47,4 +45,6 @@
   <img src="https://img.shields.io/badge/jaaeehho-20232A?style=flat-square&logo=Instagram&logoColor=E4405F" />
 <a/>
 
-
+<div>
+<img src="https://velog.velcdn.com/images/a87380/post/67d62384-20ce-4480-842c-233028d23f2b/image.gif" style="height:100px; width:100px;" alt="">
+</div>  
