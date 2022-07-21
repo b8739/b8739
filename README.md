@@ -41,9 +41,7 @@
 <a href="https://github.com/b8739">
   <img src="https://img.shields.io/badge/b8739-20232A?style=flat-square&logo=GitHub&logoColor=FFFFFE" />
 <a/>
-<a href="https://www.instagram.com/jaaeehho/">
-  <img src="https://img.shields.io/badge/jaaeehho-20232A?style=flat-square&logo=Instagram&logoColor=E4405F" />
-<a/>
+
 
 <div>
 <img src="https://velog.velcdn.com/images/a87380/post/67d62384-20ce-4480-842c-233028d23f2b/image.gif" style="height:100px; width:100px;" alt="">
